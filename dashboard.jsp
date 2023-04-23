@@ -156,6 +156,8 @@ h1 {
 		<a href="Dashboard.jsp">Dashboard</a>
 		<a href="Report.jsp">Reports</a>
 		<a href="Certificate.jsp">Certification</a>
+		<a href="vrfire.jsp">Training</a>
+		<a href=#>Testing</a>
 	</div>
 	<div class="content">
 		<div class="card">
